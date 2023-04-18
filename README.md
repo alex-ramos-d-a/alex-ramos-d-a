@@ -9,6 +9,10 @@ a tomar uma descisão de investimento com segurança e assertividade*.
 
 Link: https://github.com/alex-ramos-d-a/E-commerce_Analise_Dados
 
+### Dashboard (Cursos)
+* *Analise de desempenho de vendas uma empresa hipotetica feita no Excel* [Clique aqui](https://drive.google.com/file/d/16_QM0CgWQRmNwYij-UP_qLQFN-wF--M5/view?usp=sharing)
+
+* *Analise de desempenho de chamadas para clientes de uma empresa hipotetica feita no Power BI* [Clique aqui](https://drive.google.com/file/d/17RLdDqjsJ0BM0alseqBLNbUNVL7pnu2L/view?usp=sharing)
 ### Idiomas:
 
 ![icons8-eua-20](https://user-images.githubusercontent.com/115717016/232852782-09085f5d-f6e2-46c2-ad23-b856298dd450.png)
