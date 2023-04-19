@@ -4,8 +4,8 @@
 Phyton, SQL, BI, Excel e Estatistica Descritiva*.
 
 ### Projeto
-* *Uma analise de desempenho construida no phyton que tem objetivo de permitir ao Dono (micro-empreendedor),
-a tomar uma descisão de investimento com segurança e assertividade*.
+* *Uma analise de desempenho construída no Phyton que tem objetivo de permitir ao Dono (microempreendedor) a tomar 
+   uma decisão de investimento com segurança e assertividade*.
 
 Link: https://github.com/alex-ramos-d-a/E-commerce_Analise_Dados
 
