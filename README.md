@@ -1,18 +1,25 @@
 # Prazer, 👋 meu nome é Alex
 
-*Sou um jovem que esta fazendo a transição para carreira de dados de forma Autodidata que até aqui já aprendeu 
+*Sou um jovem da area comercial que esta aprendendo sobre dados de forma Autodidata que até aqui já aprendeu 
 Phyton, SQL, BI, Excel e Estatistica Descritiva*.
 
-### Projeto
+### Projeto no Python
 * *Uma empresa indiana e-commerce quer descobrir um perfil de cliente mais preciso. E para isso será feita 
     uma analise financeira do negocio nos anos 2018 e 2019*.
 
 Link: https://github.com/alex-ramos-d-a/E-commerce_Analise_Dados
 
-### Dashboard (Cursos)
-* *Analise de desempenho de vendas uma empresa hipotetica feita no Excel* [Clique aqui](https://drive.google.com/file/d/16_QM0CgWQRmNwYij-UP_qLQFN-wF--M5/view?usp=sharing)
+### Dashboards
+#### Curso Excel
+* Analise de desempenho de vendas de Julho [Clique aqui]([https://drive.google.com/file/d/1oZ0rqb1W3iOXpGkJOGxTZXaEbDtRjEdP/view?usp=sharing])
+* Analise de motivo de cancelamento [Clique aqui](https://drive.google.com/file/d/1nVGrA_jk0agrQZ-CBfTWY-yAAC-w6IXi/view?usp=sharing)
+* Analise de desempenho de vendas [Clique aqui](https://drive.google.com/file/d/18-rGTYyLWxwADtLidMTOMkVt7CZ4yapW/view?usp=sharing)
+* Analise de acompanhamento de Projetos [Clique aqui](https://drive.google.com/file/d/1ovnXr9WPSxrTAqKKDIY99yovcZARUQHC/view?usp=sharing)
 
-* *Analise de desempenho de chamadas para clientes de uma empresa hipotetica feita no Power BI* [Clique aqui](https://drive.google.com/file/d/17RLdDqjsJ0BM0alseqBLNbUNVL7pnu2L/view?usp=sharing)
+#### Curso Power BI
+* Analise de desempenho de chamadas [Clique aqui](https://drive.google.com/file/d/17RLdDqjsJ0BM0alseqBLNbUNVL7pnu2L/view?usp=sharing)
+* Analise de desempenho de vendas e receita [Clique aqui](https://drive.google.com/file/d/1ovnXr9WPSxrTAqKKDIY99yovcZARUQHC/view?usp=sharing)
+
 ### Idiomas:
 
 ![icons8-eua-20](https://user-images.githubusercontent.com/115717016/232852782-09085f5d-f6e2-46c2-ad23-b856298dd450.png)
@@ -26,4 +33,5 @@ Avançado em Español  [Certificado](https://drive.google.com/file/d/1KRxI7A5Jlr
 ![icons8-power-bi-50](https://user-images.githubusercontent.com/115717016/232850160-cd557d2f-537b-4229-9883-e031e8a23985.png)
 
 ### Contato
+🎯 Site: https://lnkd.in/dQNvAkxP
 📫 Email: ramosalex033@gmail.com
