@@ -11,14 +11,14 @@ Link: https://github.com/alex-ramos-d-a/E-commerce_Analise_Dados
 
 ### Dashboards
 #### Curso Excel
-* Analise de desempenho de vendas de Julho [Clique aqui]([https://drive.google.com/file/d/1oZ0rqb1W3iOXpGkJOGxTZXaEbDtRjEdP/view?usp=sharing])
+* Analise de desempenho de vendas de Julho [Clique aqui](https://drive.google.com/file/d/1oZ0rqb1W3iOXpGkJOGxTZXaEbDtRjEdP/view?usp=sharing)
 * Analise de motivo de cancelamento [Clique aqui](https://drive.google.com/file/d/1nVGrA_jk0agrQZ-CBfTWY-yAAC-w6IXi/view?usp=sharing)
 * Analise de desempenho de vendas [Clique aqui](https://drive.google.com/file/d/18-rGTYyLWxwADtLidMTOMkVt7CZ4yapW/view?usp=sharing)
 * Analise de acompanhamento de Projetos [Clique aqui](https://drive.google.com/file/d/1ovnXr9WPSxrTAqKKDIY99yovcZARUQHC/view?usp=sharing)
 
 #### Curso Power BI
 * Analise de desempenho de chamadas [Clique aqui](https://drive.google.com/file/d/17RLdDqjsJ0BM0alseqBLNbUNVL7pnu2L/view?usp=sharing)
-* Analise de desempenho de vendas e receita [Clique aqui](https://drive.google.com/file/d/1ovnXr9WPSxrTAqKKDIY99yovcZARUQHC/view?usp=sharing)
+* Analise de desempenho de vendas e receita [Clique aqui](https://drive.google.com/file/d/15sxC75GLuxoyE4wiVg-t40S1wqK1__15/view?usp=sharing)
 
 ### Idiomas:
 
