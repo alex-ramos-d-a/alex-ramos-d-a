@@ -3,7 +3,14 @@
 *Sou um jovem da area comercial que esta aprendendo sobre dados de forma Autodidata que até aqui já aprendeu 
 Phyton, SQL, BI, Excel e Estatistica Descritiva*.
 
-### Projeto no Python
+### Projetos 
+#### Analise Operação de vendas Pizzaria (SQL e Power BI)
+*  *A Plato Pizza e um restaurante que esta tendo um bom desempenho mas percebe-se que ainda há espaço para melhorar.
+  Por isso foi decido realiza uma analise para descobrir oportunidades e como trabalhar de forma mais eficientes.*.
+
+Link: https://github.com/alex-ramos-d-a/Analise_Operacoes_Venda_Pizzaria
+
+#### Analise Financeira Ecommerce (Python)
 * *Uma empresa indiana e-commerce quer descobrir um perfil de cliente mais preciso. E para isso será feita 
     uma analise financeira do negocio nos anos 2018 e 2019*.
 
