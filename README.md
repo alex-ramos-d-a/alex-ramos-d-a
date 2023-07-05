@@ -14,7 +14,7 @@ Phyton, SQL, BI, Excel e Estatistica Descritiva*.
     uma analise financeira do negocio nos anos 2018 e 2019*.
 [Clique aqui](https://github.com/alex-ramos-d-a/E-commerce_Analise_Dados)
 
-### Idiomas:
+### Idiomas
 
 ![icons8-eua-20](https://user-images.githubusercontent.com/115717016/232852782-09085f5d-f6e2-46c2-ad23-b856298dd450.png)
 Avançado em Ingles  [Certificado](https://drive.google.com/file/d/197P04wtePTgguAEkeXB__W5whi6or9Ko/view?usp=share_link)
