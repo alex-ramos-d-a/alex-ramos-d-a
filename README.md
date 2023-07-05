@@ -8,13 +8,13 @@ Phyton, SQL, BI, Excel e Estatistica Descritiva*.
 *  *A Plato Pizza e um restaurante que esta tendo um bom desempenho mas percebe-se que ainda há espaço para melhorar.
   Por isso foi decido realiza uma analise para descobrir oportunidades e como trabalhar de forma mais eficientes.*.
 
-Link: https://github.com/alex-ramos-d-a/Analise_Operacoes_Venda_Pizzaria
+[Clique aqui](https://github.com/alex-ramos-d-a/Analise_Operacoes_Venda_Pizzaria)
 
 #### Analise Financeira Ecommerce (Python)
 * *Uma empresa indiana e-commerce quer descobrir um perfil de cliente mais preciso. E para isso será feita 
     uma analise financeira do negocio nos anos 2018 e 2019*.
 
-Link: https://github.com/alex-ramos-d-a/E-commerce_Analise_Dados
+[Clique aqui](https://github.com/alex-ramos-d-a/E-commerce_Analise_Dados)
 
 ### Idiomas:
 
