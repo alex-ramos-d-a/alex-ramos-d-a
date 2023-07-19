@@ -10,8 +10,8 @@ e compreensão da parte operacional de vendas e da parte estrutural*
 [Clique aqui](https://github.com/alex-ramos-d-a/Analise_Operacoes_Venda_Pizzaria)
 
 #### Analise Operação de Inventario Pizzaria (2° parte)
-*   *Ja nessa segunda parte explico como desenvolvi um dashboard que possibilita a visualização e compreensão
-  da parte operacional de vendas e da parte estrutura*.
+*   *Nessa segunda parte explico como desenvolvi um dashboard possibilita o acompanhamento do uso de
+  ingredientes por pizza em diversos niveis de tempo como dia, semana e mês*.
 [Clique aqui](https://github.com/alex-ramos-d-a/Analise_Operacoes_Inventario_Pizzaria)
 
 #### Analise Financeira Ecommerce (Python)
