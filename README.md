@@ -1,7 +1,8 @@
 # Prazer, 👋 meu nome é Alex
 
-*Sou um jovem da area comercial que esta aprendendo sobre dados de forma Autodidata que até aqui já aprendeu 
-Phyton, SQL, BI, Excel e Estatistica Descritiva*.
+*Sou um profissional com mais de 1 ano de experiência no setor comercial como assistente comercial e vendas, por isso conheço bastante da parte outbound de vendas*.
+
+*E me aventurei a analise no inicio de 2022 e para que hoje eu pudesse me chamar de analista de negócios ou comercial tiver completa 7 cadernos, investir centenas de horas de estudo, criar quase 20 projetos de aprendizado, fazer mais de 23 cursos. Além de diversas outras coisas como aprender a editar, criar apresentações etc*.
 
 ### Projetos 
 #### Analise Operação de vendas Pizzaria (1° Parte)
