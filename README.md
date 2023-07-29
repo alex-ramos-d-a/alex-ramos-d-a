@@ -1,23 +1,23 @@
 # Prazer, 👋 meu nome é Alex
 
-Sou um profissional com mais de 1 ano de experiência no setor comercial como assistente comercial e vendas, por isso conheço bastante da parte outbound de vendas*.
+Sou um profissional com mais de 1 ano de experiência no setor comercial como assistente comercial e vendas, por isso conheço bastante da parte outbound de vendas.
 
 E me aventurei a analise no inicio de 2022 e para que hoje eu pudesse me chamar de analista de negócios ou comercial tiver completa 7 cadernos, investir centenas de horas de estudo, criar quase 20 projetos de aprendizado, fazer mais de 23 cursos. Além de diversas outras coisas como aprender a editar, criar apresentações etc.
 
 ### Projetos 
 #### Analise Operação de vendas Pizzaria (1° Parte)
-*   *Nessa primeira parte detem os arquivos de como desenvolvi um dashboard que possibilita a visualização
-e compreensão da parte operacional de vendas e da parte estrutural*
+*   Nessa primeira parte detem os arquivos de como desenvolvi um dashboard que possibilita a visualização
+e compreensão da parte operacional de vendas e da parte estrutural
 [Clique aqui](https://github.com/alex-ramos-d-a/Analise_Operacoes_Venda_Pizzaria)
 
 #### Analise Operação de Inventario Pizzaria (2° parte)
-*   *Nessa segunda parte explico como desenvolvi um dashboard possibilita o acompanhamento do uso de
-  ingredientes por pizza em diversos niveis de tempo como dia, semana e mês*.
+*   Nessa segunda parte explico como desenvolvi um dashboard possibilita o acompanhamento do uso de
+  ingredientes por pizza em diversos niveis de tempo como dia, semana e mês.
 [Clique aqui](https://github.com/alex-ramos-d-a/Analise_Operacoes_Inventario_Pizzaria)
 
 #### Analise Financeira Ecommerce (Python)
-* *Uma empresa indiana e-commerce quer descobrir um perfil de cliente mais preciso. E para isso será feita 
-    uma analise financeira do negocio nos anos 2018 e 2019*.
+*  Uma empresa indiana e-commerce quer descobrir um perfil de cliente mais preciso. E para isso será feita 
+    uma analise financeira do negocio nos anos 2018 e 2019.
 [Clique aqui](https://github.com/alex-ramos-d-a/E-commerce_Analise_Dados)
 
 ### Idiomas
