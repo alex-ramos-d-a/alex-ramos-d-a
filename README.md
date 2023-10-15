@@ -8,7 +8,7 @@ E me aventurei a analise no inicio de 2022 e para que hoje eu pudesse me chamar 
 
 #### Analise do Funil de Marketing - Olist 
 *  E uma plataforma de vendas de produtos, no qual lojistas ao anunciarem na olist, terão seus produtos apresentados
-    em diversos outros sites e-commerce como mercado livre, casas Bahia... Além diversos outros beneficios..
+    em diversos outros sites e-commerce como mercado livre, casas Bahia... Além diversos outros beneficios.
 [Clique aqui](https://github.com/alex-ramos-d-a/Analise_Funil_de_Marketing_Olist)
 
 #### Analise Operação de vendas - Pizzaria (1° Parte)
