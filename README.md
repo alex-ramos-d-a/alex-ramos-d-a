@@ -39,5 +39,5 @@ Avançado em Español  [Certificado](https://drive.google.com/file/d/1KRxI7A5Jlr
 
 
 ### Contato
-🎯 Site: https://lnkd.in/dQNvAkxP
+🎯 Site: www.alexramosdados.com.br  
 📫 Email: ramosalex033@gmail.com
